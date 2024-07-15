@@ -1,16 +1,5 @@
 # SecondSpin
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+本项目为跨境电商APP项目，商品主要为二手产品，为用户提供了用户管理、 
+商品上传及展示、购物车管理、海关申报等功能。本项目的特点为前后端分离： 
+Supabase作为后端服务，并结合Flutter作为前端开发。
