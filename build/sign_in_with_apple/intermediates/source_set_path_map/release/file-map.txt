@@ -1,0 +1,13 @@
+com.aboutyou.dart_packages.sign_in_with_apple-core-1.6.0-0 C:\Users\yzj\.gradle\caches\transforms-3\284a410c767ad6c7a2b0ffc8d8d85981\transformed\core-1.6.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-window-java-1.0.0-beta04-1 C:\Users\yzj\.gradle\caches\transforms-3\2a215381204751055df81b6269e717b7\transformed\jetified-window-java-1.0.0-beta04\res
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-annotation-experimental-1.1.0-2 C:\Users\yzj\.gradle\caches\transforms-3\3d2f03fc996c2e0aa3dee5cfa3002cd1\transformed\jetified-annotation-experimental-1.1.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-jetified-window-1.0.0-beta04-3 C:\Users\yzj\.gradle\caches\transforms-3\f302e75fb7efd781bcf1a29281c188da\transformed\jetified-window-1.0.0-beta04\res
+com.aboutyou.dart_packages.sign_in_with_apple-browser-1.5.0-4 C:\Users\yzj\.gradle\caches\transforms-3\fe539880c5099955febb99e965e706e5\transformed\browser-1.5.0\res
+com.aboutyou.dart_packages.sign_in_with_apple-main-5 C:\Users\yzj\AppData\Local\Pub\Cache\hosted\mirrors.tuna.tsinghua.edu.cn%47dart-pub%47\sign_in_with_apple-5.0.0\android\src\main\res
+com.aboutyou.dart_packages.sign_in_with_apple-release-6 C:\Users\yzj\AppData\Local\Pub\Cache\hosted\mirrors.tuna.tsinghua.edu.cn%47dart-pub%47\sign_in_with_apple-5.0.0\android\src\release\res
+com.aboutyou.dart_packages.sign_in_with_apple-pngs-7 D:\Myflutter\SecondSpin\build\sign_in_with_apple\generated\res\pngs\release
+com.aboutyou.dart_packages.sign_in_with_apple-resValues-8 D:\Myflutter\SecondSpin\build\sign_in_with_apple\generated\res\resValues\release
+com.aboutyou.dart_packages.sign_in_with_apple-rs-9 D:\Myflutter\SecondSpin\build\sign_in_with_apple\generated\res\rs\release
+com.aboutyou.dart_packages.sign_in_with_apple-mergeReleaseResources-10 D:\Myflutter\SecondSpin\build\sign_in_with_apple\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.aboutyou.dart_packages.sign_in_with_apple-mergeReleaseResources-11 D:\Myflutter\SecondSpin\build\sign_in_with_apple\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.aboutyou.dart_packages.sign_in_with_apple-merged_res-12 D:\Myflutter\SecondSpin\build\sign_in_with_apple\intermediates\merged_res\release

@@ -1,0 +1,68 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.aboutyou.dart_packages.sign_in_with_apple-mergeReleaseResources-9:/values-mn/values-mn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yzj\\.gradle\\caches\\transforms-3\\284a410c767ad6c7a2b0ffc8d8d85981\\transformed\\core-1.6.0\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "477",
+                        "endColumns": "100",
+                        "endOffsets": "573"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yzj\\.gradle\\caches\\transforms-3\\fe539880c5099955febb99e965e706e5\\transformed\\browser-1.5.0\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,160,264,369",
+                        "endColumns": "104,103,104,107",
+                        "endOffsets": "155,259,364,472"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.aboutyou.dart_packages.sign_in_with_apple-merged_res-11:/values-mn/values-mn.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\yzj\\.gradle\\caches\\transforms-3\\284a410c767ad6c7a2b0ffc8d8d85981\\transformed\\core-1.6.0\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "477",
+                        "endColumns": "100",
+                        "endOffsets": "573"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\yzj\\.gradle\\caches\\transforms-3\\fe539880c5099955febb99e965e706e5\\transformed\\browser-1.5.0\\res\\values-mn\\values-mn.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,160,264,369",
+                        "endColumns": "104,103,104,107",
+                        "endOffsets": "155,259,364,472"
+                    }
+                }
+            ]
+        }
+    ]
+}
